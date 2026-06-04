@@ -4,7 +4,7 @@ Full-stack developer passionate about building elegant solutions with **Dart**, 
 
 ## About Me
 
-- Learning, and building to bild tools
+- Learning, and building to build tools
 
 ## Featured Projects
 
