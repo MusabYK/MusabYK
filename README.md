@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Musab
+# Hi there 👋 I'm Mus'ab
 
 Full-stack developer passionate about building elegant solutions with **Dart**, **Flutter**, **Java**, **JavaScript**, and **TypeScript**.
 
