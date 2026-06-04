@@ -4,14 +4,12 @@ Full-stack developer passionate about building elegant solutions with **Dart**, 
 
 ## About Me
 
-- 🌱 Continuously learning and building to bild tools
-- 🎯 Focused on writing clean, maintainable, and well-tested code
-- 🤝 Open to collaboration and contributing to open-source projects
+- Learning, and building to bild tools
 
 ## Featured Projects
 
 <!-- Replace with your actual projects -->
-- 🚀 **Getmedford** -  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa. By connecting licensed pharmacies, hospitals, and clinics directly with verified manufacturers and wholesalers, we ensure a reliable, transparent, and efficient supply chain for authentic medications.
+- **Getmedford** -  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa. By connecting licensed pharmacies, hospitals, and clinics directly with verified manufacturers and wholesalers, we ensure a reliable, transparent, and efficient supply chain for authentic medications.
 
 ## Recent Learning & Interests
 
