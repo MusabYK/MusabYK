@@ -4,9 +4,7 @@ Full-stack developer passionate about building elegant solutions with **Dart**, 
 
 ## 🚀 About Me
 
-- 🔭 Currently working on innovative projects using modern technologies
-- 🌱 Continuously learning and exploring new frameworks and tools
-- 💻 Specialized in cross-platform mobile development with **Flutter**
+- 🌱 Continuously learning and building to bild tools
 - 🎯 Focused on writing clean, maintainable, and well-tested code
 - 🤝 Open to collaboration and contributing to open-source projects
 
@@ -20,7 +18,7 @@ Full-stack developer passionate about building elegant solutions with **Dart**, 
 - Advanced state management patterns in Flutter
 - Full-stack development with TypeScript & Node.js
 - UFFI
-- Software architecture and design patterns
+- Bitcoin & Algorand
 
 ## 🔗 Connect With Me
 
