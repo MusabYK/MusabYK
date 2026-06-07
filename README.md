@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mus'ab
 
-Full-stack developer passionate about building elegant solutions with **Dart**, **Flutter**, **Java**, and **other cuttting edge technologies**.
+Software engineer passionate about building elegant solutions with **Dart**, **Flutter**, **Java**, and **other cuttting edge technologies**.
 
 ## About Me
 
