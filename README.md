@@ -9,7 +9,7 @@ Software engineer passionate about building elegant solutions with **Dart**, **F
 ## Featured Projects
 
 <!-- Replace with your actual projects -->
-- **Getmedford** -  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa. By connecting licensed pharmacies, hospitals, and clinics directly with verified manufacturers and wholesalers, we ensure a reliable, transparent, and efficient supply chain for authentic medications.
+- **Getmedford** -  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa. By connecting licensed pharmacies, hospitals, and clinics directly with verified manufacturers and wholesalers, to ensure a reliable, transparent, and efficient supply chain for authentic medications.
 
 ## Recent Learning & Interests
 
