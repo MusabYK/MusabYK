@@ -14,9 +14,12 @@ Software engineer passionate about building elegant solutions with **Dart**, **F
 ## Recent Learning & Interests
 
 - Advanced state management patterns in Flutter
-- Full-stack development with TypeScript & Node.js
+- Full-stack development with React & Node.js
 - UFFI
+- open source development
+- Rust
 - Bitcoin & Algorand
+- Silent payments (BIP 352)
 - bdk-sp
 - bdk-ffi
 
