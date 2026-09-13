@@ -16,7 +16,7 @@ Software engineer passionate about building elegant solutions with **Dart**, **F
 - Advanced state management patterns in Flutter
 - Full-stack development with React & Node.js
 - UFFI
-- open source development
+- Open Source Development
 - Rust
 - Bitcoin & Algorand
 - Silent payments (BIP 352)
