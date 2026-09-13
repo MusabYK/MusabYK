@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mus'ab
 
-Software engineer passionate about building elegant solutions with **Dart**, **Flutter**, **Java**, and **other cuttting edge technologies**.
+Software engineer passionate about building elegant solutions with **Dart**, **Flutter**, **Java**, **Rust**, and **other cuttting edge technologies**.
 
 ## About Me
 
@@ -9,7 +9,7 @@ Software engineer passionate about building elegant solutions with **Dart**, **F
 ## Featured Projects
 
 <!-- Replace with your actual projects -->
-- **Getmedford** -  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa. By connecting licensed pharmacies, hospitals, and clinics directly with verified manufacturers and wholesalers, to ensure a reliable, transparent, and efficient supply chain for authentic medications.
+- **Getmedford** -  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa.
 
 ## Recent Learning & Interests
 
@@ -17,17 +17,18 @@ Software engineer passionate about building elegant solutions with **Dart**, **F
 - Full-stack development with TypeScript & Node.js
 - UFFI
 - Bitcoin & Algorand
+- bdk-sp
+- bdk-ffi
 
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/musabdanladi)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yakubumusab)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musabyakubu1000@gmail.com)
 
 ## Services & Availability
 
 I'm available for:
-- 🎨 Custom mobile app development
+- 🎨 Custom mobile app development (native and cross-platform)
 - 🌐 Full-stack web development
 - 🤝 Open-source contributions and collaborations
 
