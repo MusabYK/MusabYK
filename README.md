@@ -1,22 +1,16 @@
 # Hi there 👋 I'm Mus'ab
 
-Software engineer passionate about building elegant solutions with **Dart**, **Flutter**, **Java**, **Rust**, and **other cuttting edge technologies**.
-
-## About Me
-
-- Learning, and building to build tools
+### Software engineer working primarily with **Dart**, **Flutter**, **Java**, **Rust**, and **other cuttting edge technologies**.
 
 ## Featured Projects
 
 <!-- Replace with your actual projects -->
-- **Getmedford** -  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa.
+- [**Getmedford**](https://www.getmedford.org/)-  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa.
+- [**MAU-Mobile (Safilex)**](https://www.getmedford.org/)-  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa.
 
 ## Recent Learning & Interests
-
-- Advanced state management patterns in Flutter
-- Full-stack development with React & Node.js
-- UFFI
 - Open Source Development
+- UFFI
 - Rust
 - Bitcoin & Algorand
 - Silent payments (BIP 352)
