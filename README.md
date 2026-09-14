@@ -2,8 +2,7 @@
 
 ### Software engineer working primarily with **Dart**, **Flutter**, **Java**, **Android**, **Javascript**, **React**, and **Rust**
 
-## Featured Projects
-
+## Projects
 <!-- Replace with your actual projects -->
 - [**Getmedford**](https://www.getmedford.org/)-  a premium, end-to-end digital procurement platform designed to improve pharmaceutical supply in Africa.
 - [**MAU-Mobile (Safilex)**](https://play.google.com/store/apps/details?id=com.musappyk.mau)-  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa.
