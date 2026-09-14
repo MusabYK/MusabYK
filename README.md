@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mus'ab
 
-### Software engineer working primarily with **Dart**, **Flutter**, **Java**, **Rust**, and **other cuttting edge technologies**.
+### Software engineer working primarily with **Dart**, **Flutter**, **Java**, **Javascript**, **React**, and **Rust**
 
 ## Featured Projects
 
