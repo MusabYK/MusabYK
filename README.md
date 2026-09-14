@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mus'ab
 
-### Software engineer working primarily with **Dart**, **Flutter**, **Java**, **Javascript**, **React**, and **Rust**
+### Software engineer working primarily with **Dart**, **Flutter**, **Java**, **Android**, **Javascript**, **React**, and **Rust**
 
 ## Featured Projects
 
@@ -26,7 +26,6 @@
 
 I'm available for:
 - 🎨 Custom mobile app development (native and cross-platform)
-- 🌐 Full-stack web development
 - 🤝 Open-source contributions and collaborations
 
 ---
