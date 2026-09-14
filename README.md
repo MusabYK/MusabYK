@@ -6,14 +6,14 @@
 
 <!-- Replace with your actual projects -->
 - [**Getmedford**](https://www.getmedford.org/)-  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa.
-- [**MAU-Mobile (Safilex)**](https://www.getmedford.org/)-  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa.
+- [**MAU-Mobile (Safilex)**](https://play.google.com/store/apps/details?id=com.musappyk.mau)-  a premium, end-to-end digital procurement platform designed to revolutionize pharmaceutical supply in Africa.
 
 ## Recent Learning & Interests
 - Open Source Development
 - UFFI
 - Rust
 - Bitcoin & Algorand
-- Silent payments (BIP 352)
+- Silent Payments (BIP 352)
 - bdk-sp
 - bdk-ffi
 
