@@ -30,4 +30,4 @@ I'm available for:
 
 ---
 
-**Feel free to reach out if you'd like to collaborate or just want to chat about code!** 🙌
+**Feel free to reach out if you'd like to collaborate or just want to chat about code! especially Flutter** 🙌
